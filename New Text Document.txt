@@ -1,0 +1,221 @@
+export const RecipeBowls = [
+    {
+        src: '/recipebowl.png',
+        title: 'Recipe Name',
+        info: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, unde. Impedit sunt iste voluptatum at saepe est maiores, adipisci inventore voluptatem non, deserunt quibusdam iure possimus perspiciatis, dignissimos porro repudiandae!',
+        href: 'recipe-1',
+    },
+    {
+        src: '/recipebowl.png',
+        title: 'Recipe Name',
+        info: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, unde. Impedit sunt iste voluptatum at saepe est maiores, adipisci inventore voluptatem non, deserunt quibusdam iure possimus perspiciatis, dignissimos porro repudiandae!',
+        href: 'recipe-1',
+    },
+    {
+        src: '/recipebowl.png',
+        title: 'Recipe Name',
+        info: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, unde. Impedit sunt iste voluptatum at saepe est maiores, adipisci inventore voluptatem non, deserunt quibusdam iure possimus perspiciatis, dignissimos porro repudiandae!',
+        href: 'recipe-1',
+    },
+    {
+        src: '/recipebowl.png',
+        title: 'Recipe Name',
+        info: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, unde. Impedit sunt iste voluptatum at saepe est maiores, adipisci inventore voluptatem non, deserunt quibusdam iure possimus perspiciatis, dignissimos porro repudiandae!',
+        href: 'recipe-1',
+    },
+    {
+        src: '/recipebowl.png',
+        title: 'Recipe Name',
+        info: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, unde. Impedit sunt iste voluptatum at saepe est maiores, adipisci inventore voluptatem non, deserunt quibusdam iure possimus perspiciatis, dignissimos porro repudiandae!',
+        href: 'recipe-1',
+    },
+    {
+        src: '/recipebowl.png',
+        title: 'Recipe Name',
+        info: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, unde. Impedit sunt iste voluptatum at saepe est maiores, adipisci inventore voluptatem non, deserunt quibusdam iure possimus perspiciatis, dignissimos porro repudiandae!',
+        href: 'recipe-1',
+    },
+]
+
+export const ProductsToShowOnCashewPage = [
+    {
+        src: '/product.png',
+        name: 'Banana Cashew Milk',
+        knowMore: '/banana_cashew_milk',
+        buyNow: '/buy-now-link'
+    },
+    {
+        src: '/product.png',
+        name: 'Coffee Cashew Milk',
+        knowMore: '/coffee_cashew_milk',
+        buyNow: '/buy-now-link'
+    },
+    {
+        src: '/product.png',
+        name: 'Fig Cashew Milk',
+        knowMore: '/fig_cashew_milk',
+        buyNow: '/buy-now-link'
+    },
+]
+export const ProductsToShowOnBananaPage = [
+    {
+        src: '/product.png',
+        name: 'Plain Cashew Milk',
+        knowMore: '/cashew_milk',
+        buyNow: '/buy-now-link'
+    },
+    {
+        src: '/product.png',
+        name: 'Coffee Cashew Milk',
+        knowMore: '/coffee_cashew_milk',
+        buyNow: '/buy-now-link'
+    },
+    {
+        src: '/product.png',
+        name: 'Fig Cashew Milk',
+        knowMore: '/fig_cashew_milk',
+        buyNow: '/buy-now-link'
+    },
+]
+export const ProductsToShowOnCoffeePage = [
+    {
+        src: '/product.png',
+        name: 'Banana Cashew Milk',
+        knowMore: '/banana_cashew_milk',
+        buyNow: '/buy-now-link'
+    },
+    {
+        src: '/product.png',
+        name: 'Plain Cashew Milk',
+        knowMore: '/cashew_milk',
+        buyNow: '/buy-now-link'
+    },
+    {
+        src: '/product.png',
+        name: 'Fig Cashew Milk',
+        knowMore: '/fig_cashew_milk',
+        buyNow: '/buy-now-link'
+    },
+]
+export const ProductsToShowOnFigPage = [
+    {
+        src: '/product.png',
+        name: 'Banana Cashew Milk',
+        knowMore: '/banana_cashew_milk',
+        buyNow: '/buy-now-link'
+    },
+    {
+        src: '/product.png',
+        name: 'Coffee Cashew Milk',
+        knowMore: '/coffee_cashew_milk',
+        buyNow: '/buy-now-link'
+    },
+    {
+        src: '/product.png',
+        name: 'Plain Cashew Milk',
+        knowMore: '/cashew_milk',
+        buyNow: '/buy-now-link'
+    },
+]
+
+export const Founders = [
+    {
+        src: '/emp.jpg',
+        name: 'Mr. Vedang Joshi',
+        post: 'Founder & Managing Director'
+    },
+    {
+        src: '/emp.jpg',
+        name: 'Mr. Vedang Joshi',
+        post: 'Founder & Managing Director'
+    },
+    {
+        src: '/emp.jpg',
+        name: 'Mr. Vedang Joshi',
+        post: 'Founder & Managing Director'
+    },
+]
+
+export const ProductData = [
+    {
+        // plain-cashew-milk
+        name: "Plain Cashew Milk",
+        images: [
+            {
+                src: '/productImage.jpg',
+            },
+            {
+                src: '/product.png',
+            },
+            {
+                src: '/productImage.jpg',
+            },
+            {
+                src: '/productImage.jpg',
+            },
+        ],
+        info: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Labore, eum eaque. Nobis vel dolorum voluptatem, obcaecati incidunt voluptas blanditiis placeat iure, libero distinctio sapiente consectetur. Fugiat maxime temporibus velit quis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium eius magnam deserunt cupiditate quasi maxime esse nulla illum. Doloremque eos possimus ipsa dignissimos ipsum, consequatur optio! Magnam animi atque sed? Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore, aliquam natus? Architecto optio eos eaque provident asperiores error at. In minus nam fugiat! Dolorum dolorem ratione hic eos pariatur necessitatibus.',
+        tags: ['Low-Fat', 'Protein-Rich', 'Lactose-Free', 'Gluten-Free']
+    },
+    {
+        // banana-cashew-milk
+        name: "Banana Cashew Milk",
+        images: [
+            {
+                src: '/productImage.jpg',
+            },
+            {
+                src: '/product.png',
+            },
+            {
+                src: '/product.png',
+            },
+            {
+                src: '/product.png',
+            },
+        ],
+        info: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Labore, eum eaque. Nobis vel dolorum voluptatem, obcaecati incidunt voluptas blanditiis placeat iure, libero distinctio sapiente consectetur. Fugiat maxime temporibus velit quis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium eius magnam deserunt cupiditate quasi maxime esse nulla illum. Doloremque eos possimus ipsa dignissimos ipsum, consequatur optio! Magnam animi atque sed? Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore, aliquam natus? Architecto optio eos eaque provident asperiores error at. In minus nam fugiat! Dolorum dolorem ratione hic eos pariatur necessitatibus.',
+        tags: ['Low-Fat', 'Protein-Rich', 'Lactose-Free', 'Gluten-Free']
+    },
+    {
+        // coffee-cashew-milk
+        name: "Coffee Cashew Milk",
+        images: [
+            {
+                src: '/productImage.jpg',
+            },
+            {
+                src: '/product.png',
+            },
+            {
+                src: '/product.png',
+            },
+            {
+                src: '/product.png',
+            },
+        ],
+        info: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Labore, eum eaque. Nobis vel dolorum voluptatem, obcaecati incidunt voluptas blanditiis placeat iure, libero distinctio sapiente consectetur. Fugiat maxime temporibus velit quis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium eius magnam deserunt cupiditate quasi maxime esse nulla illum. Doloremque eos possimus ipsa dignissimos ipsum, consequatur optio! Magnam animi atque sed? Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore, aliquam natus? Architecto optio eos eaque provident asperiores error at. In minus nam fugiat! Dolorum dolorem ratione hic eos pariatur necessitatibus.',
+        tags: ['Low-Fat', 'Protein-Rich', 'Lactose-Free', 'Gluten-Free']
+    },
+    {
+        // fig-cashew-milk
+        name: "Fig Cashew Milk",
+        images: [
+            {
+                src: '/productImage.jpg',
+            },
+            {
+                src: '/product.png',
+            },
+            {
+                src: '/product.png',
+            },
+            {
+                src: '/product.png',
+            },
+        ],
+        info: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Labore, eum eaque. Nobis vel dolorum voluptatem, obcaecati incidunt voluptas blanditiis placeat iure, libero distinctio sapiente consectetur. Fugiat maxime temporibus velit quis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium eius magnam deserunt cupiditate quasi maxime esse nulla illum. Doloremque eos possimus ipsa dignissimos ipsum, consequatur optio! Magnam animi atque sed? Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore, aliquam natus? Architecto optio eos eaque provident asperiores error at. In minus nam fugiat! Dolorum dolorem ratione hic eos pariatur necessitatibus.',
+        tags: ['Low-Fat', 'Protein-Rich', 'Lactose-Free', 'Gluten-Free']
+    },
+]
+

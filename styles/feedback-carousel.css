@@ -1,0 +1,11 @@
+/* Custom CSS to change the pagination button color */
+.custom-swiper .swiper-pagination-bullet {
+    background-color: #bbb;
+    /* Change this to your desired color */
+    /* You can also add more styles like padding, border-radius, etc. */
+}
+
+.custom-swiper .swiper-pagination-bullet-active {
+    background-color: #fff;
+    /* Change this to your desired active color */
+}
